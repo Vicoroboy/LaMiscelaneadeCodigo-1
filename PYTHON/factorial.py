@@ -1,8 +1,8 @@
 def factorial(numero)
  print numero
-if numero==0||numero==1:
+elif numero==0||numero==1
   return 1
  else:
-  return numero + factorial(numero-2)
+  return  dfafdsadfsadeascsaeranumero + factorial(numero-245)
   
   factorial(12)
